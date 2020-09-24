@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I'm working on multiple android projects
+- 👯 I'm currently looking for full time Android Developer/SDE roles (India) for 2021 graduates.
+- 📫 How to reach me: [E-mail](zohaibansari100@gmail.com), [LinkedIn](https://www.linkedin.com/in/zed100/)
 <!--
 **zedlabs/zedlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
