@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm working on multiple android projects
-- 📫 How to reach me: [E-mail](https://www.linkedin.com/in/zed100/detail/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5HrhUlBNSwuYLocH52bzTw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-contact_see_more)
+- 📫 Contact me: [E-mail](https://www.linkedin.com/in/zed100/detail/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5HrhUlBNSwuYLocH52bzTw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-contact_see_more)
 <!--
 **zedlabs/zedlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
